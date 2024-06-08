@@ -1,0 +1,1 @@
+The program is an online car rental agency where any customer can access and rent a car then return later. It has functionality like rent a car, return car, show cars available for renting and printing the transactions.
